@@ -1,18 +1,9 @@
 {
   "name": "gulp-angular-boilerplate",
   "version": "1.0.0",
-  "description": "packages json gulp-angular-boilerplate",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Robpayot/gulp-angular-boilerplate.git"
-  },
-  "author": "Robin Payot",
-  "license": "ISC",
-  "devDependencies": {
+  "description": "Node package for gulp-angular-boilerplate",
+  "main": "gulpfile.js",
+  "dependencies": {
     "bower": "^1.5.2",
     "browser-sync": "^2.9.3",
     "gulp": "^3.9.0",
@@ -25,8 +16,19 @@
     "merge-stream": "^1.0.0",
     "node-import": "^0.9.2",
     "require-dir": "^0.3.0",
-    "run-sequence": "^1.1.2"
+    "run-sequence": "^1.1.2",
+    "wiredep": "^2.2.2"
   },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robpayot/gulp-angular-boilerplate.git"
+  },
+  "author": "Robin Payot",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Robpayot/gulp-angular-boilerplate/issues"
   },
