@@ -1,0 +1,17 @@
+{
+  "name": "gulp-angular-boilerplate",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Robpayot/gulp-angular-boilerplate",
+  "authors": [
+    "Robin Payot"
+  ],
+  "description": "use bower to implement Angular.js and your dependencies",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

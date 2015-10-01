@@ -1,0 +1,19 @@
+{
+  "name": "gulp-angular-boilerplate",
+  "version": "1.0.0",
+  "description": "packages json gulp-angular-boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robpayot/gulp-angular-boilerplate.git"
+  },
+  "author": "Robin Payot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robpayot/gulp-angular-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Robpayot/gulp-angular-boilerplate#readme"
+}
