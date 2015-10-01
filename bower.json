@@ -19,7 +19,6 @@
     "angular-sanitize": "~1.4.5",
     "angular-ui-router": "~0.2.15",
     "bootstrap-sass": "~3.3.5",
-    "fullpage.js": "~2.7.1",
     "gsap": "~1.18.0"
   }
 }
