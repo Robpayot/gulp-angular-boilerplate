@@ -1,3 +1,3 @@
 angular.module('myApp')
 	.controller 'HomeCtrl', ($scope) ->
-		$scope.hello = 'Hello world'
+		$scope.home = 'Home page'
