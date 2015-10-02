@@ -3,6 +3,8 @@ A boilerplate made for quickly set up your Angular app using gulp as build syste
 
 This is a work in progress, next stapes are compiling less and use only JS instead of coffee.js.
 
+Feel free to contribute.
+
 Requirements :
 
 node.js
@@ -14,7 +16,7 @@ Installation :
 
 ```bash
 $ npm install
-$ npm bower install
+$ bower install
 ```
 
 Run :
