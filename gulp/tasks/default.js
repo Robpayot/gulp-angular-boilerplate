@@ -4,6 +4,6 @@ var gulp = require('gulp'),
 // Default task
 gulp.task('default', function() {
 
-    runSequence(['build', 'views', 'scripts', 'styles', 'libs'], ['bower', 'serve']);
+    runSequence(['bower'], ['views', 'scripts', 'styles', 'libs'], ['serve']);
     
 });

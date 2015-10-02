@@ -1,6 +1,9 @@
-var gulp = require('gulp');
+var gulp = require('gulp'),
+    runSequence = require('run-sequence');
 
+// Default task
 gulp.task('build', function() {
-	gulp.src(srcPath+'index.html')
-		.pipe(gulp.dest(distPath));
+
+    runSequence(['index']);
+    
 });
